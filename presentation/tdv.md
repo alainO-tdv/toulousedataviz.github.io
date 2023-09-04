@@ -65,6 +65,8 @@ Concours de dataviz depuis 2018
 - 2019 : 24 réalisations
 - 2020 : 37 réalisations
 - 2021 : 27 réalisations
+- 2022 : 16 réalisations
+- 2023 : 13 réalisations
 
 ---
 
@@ -73,13 +75,13 @@ Concours de dataviz depuis 2018
 - Collèges, lycées, universités et entreprises
   > S'initier à l'analyse et <br/> à la visualisation de données
 - Parcours Laïque et Citoyen du CD31
-  > Interventions auprès des collégiens
+  > Interventions auprès des collégiens 
 
 ---
 
 ## OFFRE DE SERVICES
 
-- Initiation à la dataviz
+- Sensibilisation à la dataviz
 - Hackaviz sur mesure
 - Préparation de données
 - Réalisation de visualisation
@@ -91,10 +93,11 @@ Concours de dataviz depuis 2018
 
 - Création du meetup : oct 2015
 - Création de Toulouse DataViz : déc 2017
-- 1540 membres meetup (sept 2020)
-- 40 meetup
-- 26 intervenants
-- 4 Hackaviz depuis 2018
+- 1941 membres meetup (sept 2023)
+- 500 Clubistes
+- 66 meetup
+- 40 intervenants
+- 7 Hackaviz depuis 2018
 
 ---
 
@@ -102,7 +105,7 @@ Concours de dataviz depuis 2018
 
 On aime bien:
 
-- JavaScript, D3.js, ObservableHQ
+- JavaScript, D3.js et beaucoup ObservableHQ
 - Python, Jupyter
 - R
 - QGIS, Leaflet
