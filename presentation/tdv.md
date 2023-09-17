@@ -65,6 +65,7 @@ Concours de dataviz depuis 2018
 - 2019 : 24 réalisations
 - 2020 : 37 réalisations
 - 2021 : 27 réalisations
+- 2022
 
 ---
 
